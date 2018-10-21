@@ -3,7 +3,7 @@ Fast and easy find and replace tool for large files.
 
 SYNTAX
 
-$ fr <file> 'from' 'to'
+$ fr file 'from' 'to'
 
 USAGE EXAMPLE
 
