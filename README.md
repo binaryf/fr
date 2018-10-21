@@ -1,5 +1,5 @@
 # fr
-Easy find and replace tool for large ACII files.
+Easy find and replace tool for large files.
 
 SYNTAX
 
