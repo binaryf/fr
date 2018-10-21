@@ -8,4 +8,5 @@ $ fr fr.c while 'HELLO WORLD!' > out.c
 INSTALL
 
 gcc -o fr fr.c
+
 sudo mv fr /usr/local/bin/
