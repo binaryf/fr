@@ -5,7 +5,7 @@ Its proven to be right.
 
 ## Source
 
-``C
+```C
 
 #include <fcntl.h>
 #include <stdio.h>
