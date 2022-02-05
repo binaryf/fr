@@ -1,7 +1,8 @@
 # fr-tool
 
-An Easy to use find and replace tool for large files.
-Its proven to be right.
+* An Easy to use find and replace tool for large files.
+* Bugfree.
+* Fork it if needed.
 
 ## Source
 
