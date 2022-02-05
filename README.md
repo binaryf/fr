@@ -8,6 +8,7 @@ Its proven to be right.
 ```bash
 
 $ fr file 'from' 'to'
+$ fr file from to
 
 ```
 
@@ -19,8 +20,12 @@ $ fr fr.c while 'HELLO WORLD!' > out.c
 
 ```
 
-INSTALL
+## Install
 
-gcc -o fr fr.c
+```bash
 
-sudo mv fr /usr/local/bin/
+$ gcc -o fr fr.c
+$ sudo mv fr /usr/local/bin/
+
+```
+
