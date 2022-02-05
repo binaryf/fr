@@ -5,15 +5,19 @@ Its proven to be right.
 
 ## Syntax
 
+```bash
+
 $ fr file 'from' 'to'
+
+```
 
 ## Usage example
 
-``bash
+```bash
 
 $ fr fr.c while 'HELLO WORLD!' > out.c
 
-``
+```
 
 INSTALL
 
