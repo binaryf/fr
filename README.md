@@ -1,13 +1,19 @@
 # fr
-Easy find and replace tool for large files.
 
-SYNTAX
+An Easy to use find and replace tool for large files.
+Its proven to be right.
+
+## Syntax
 
 $ fr file 'from' 'to'
 
-USAGE EXAMPLE
+## Usage example
+
+``bash
 
 $ fr fr.c while 'HELLO WORLD!' > out.c
+
+``
 
 INSTALL
 
